@@ -1,4 +1,4 @@
-# EVM-Copy-Trading-bot 
+# EVM Copy Trading bot 
 
 This is a copy trading bot for EVM chains. It uses web scraping to monitor the positions opened by traders sharing their positions on EVM Futures Leaderboard. We then mimic the trade in your account using the Bybit api. MongoDB is the database used in this software. **Bot updated and working (Mar 2025)**
 
